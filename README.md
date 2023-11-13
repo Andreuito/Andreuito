@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andreuito
-- 👀 I’m interested in coding, learn new languages
-- 🌱 I’m currently learning java
+- 👀 I’m interested in coding, learn new languages, cibersecurity
+- 🌱 I’m currently learning cibersecurity
 - 💞️ I’m looking to collaborate on google
 - 📫 How to reach me asallerasgaitan@cifpfbmoll.eu
 
